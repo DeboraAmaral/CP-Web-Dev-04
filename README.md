@@ -1,3 +1,12 @@
+# CP
+
+Debora da Silva Amaral RM 550412
+Levy Nascimento Junior RM 98655
+Lívia Namba Seraphim RM 97819
+Mateus Iago Sousa Conceição RM 550270
+Sarah Ribeiro da Silva RM 97747
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
