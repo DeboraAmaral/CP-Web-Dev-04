@@ -1,10 +1,10 @@
 # CP
 
 Debora da Silva Amaral RM 550412 <br>
-Levy Nascimento Junior RM 98655
-Lívia Namba Seraphim RM 97819
-Mateus Iago Sousa Conceição RM 550270
-Sarah Ribeiro da Silva RM 97747
+Levy Nascimento Junior RM 98655 <br>
+Lívia Namba Seraphim RM 97819 <br>
+Mateus Iago Sousa Conceição RM 550270 <br>
+Sarah Ribeiro da Silva RM 97747 <br>
 
 
 # React + Vite
